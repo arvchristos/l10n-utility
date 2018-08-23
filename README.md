@@ -14,6 +14,7 @@ Currently under development so it only works for Page Numbering Addon. Global im
   * argparse
   * zipfile
   * subprocess
+  * re
 * Linux packages
   * zip
   * poedit
