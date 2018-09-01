@@ -36,4 +36,6 @@ The utility creates all required files at the same directory as l10next.py
 
 Please note that you should not edit special characters such as `&gt;` or `<emph>` in the .po files.
 
-After every edit, one has to follow the last option to compile a new oxt with the required localization. This is the file that should be commited for pull request along with the `*_extracted` directory
+After every edit, one has to follow the last option to compile a new oxt with the required localization.
+
+The whole directory, excluding the `.py` file should be commited to the corresponding repository branch.
