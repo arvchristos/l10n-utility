@@ -38,4 +38,4 @@ Please note that you should not edit special characters such as `&gt;` or `<emph
 
 After every edit, one has to follow the last option to compile a new oxt with the required localization.
 
-The whole directory, excluding the `.py` file should be commited to the corresponding repository branch.
+The whole root directory that the `.py` is located, excluding the `.py` file should be commited to the corresponding repository branch.
